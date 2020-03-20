@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">K-POP STAR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">2523510991225288</string>
+    <string name="fb_login_protocol_scheme">fb2523510991225288</string>
+
+</resources>

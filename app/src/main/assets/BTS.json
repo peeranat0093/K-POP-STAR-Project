@@ -1,0 +1,39 @@
+{
+  "BTS": [
+    {
+      "title": "RM (Kim Nam-joon)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/a/a8/BTS_RM_Map_of_the_Soul_7_concept_photo_3.png",
+      "description": "RM (short for Real Me, formerly Rap Monster) is a South Korean rapper-songwriter, composer and producer under Big Hit Entertainment. He is the leader and main rapper of the boy group BTS."
+    },
+    {
+      "title": "Jin (Kim Seok-jin)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/3/3e/BTS_Jin_Map_of_the_Soul_7_concept_photo_3.png",
+      "description": "Jin (진) is a South Korean singer, songwriter and actor under Big Hit Entertainment. He is the vocalist and visual of the boy group BTS."
+    },
+    {
+      "title": "Suga (Min Yoon-gi)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/2/2b/BTS_Suga_Map_of_the_Soul_7_concept_photo_3.png",
+      "description": "Suga (슈가; also known as Agust D) is a South Korean rapper, composer, and producer under Big Hit Entertainment. He is the lead rapper of the boy group BTS."
+    },
+    {
+      "title": "J-Hope (Jung Ho-seok)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/8/89/BTS_J-Hope_Map_of_the_Soul_7_concept_photo_3.png",
+      "description": "J-Hope (제이홉), often stylised j-hope, is a South Korean rapper, producer, composer and dancer under Big Hit Entertainment. He is the main dancer, rapper, and vocalist of the boy group BTS."
+    },
+    {
+      "title": "Jimin (Park Ji-min)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/3/3f/BTS_Jimin_Map_of_the_Soul_7_concept_photo_3.png",
+      "description": "Jimin (지민) is a South Korean singer under Big Hit Entertainment. He is the main dancer and lead vocalist of the boy group BTS."
+    },
+    {
+      "title": "V (Kim Tae-Hyung)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/6/61/BTS_V_Map_of_the_Soul_7_concept_photo_3.png",
+      "description": "V (뷔) is a South Korean singer-songwriter and actor under Big Hit Entertainment. He is the lead dancer, vocalist, visual, and face of the group of the boy group BTS."
+    },
+    {
+      "title": "Jungkook (Jeon Jeong-guk)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/c/c7/BTS_Jungkook_Map_of_the_Soul_7_concept_photo_3.png",
+      "description": "Jungkook (정국) is a South Korean singer, rapper and dancer under Big Hit Entertainment. He is the main vocalist, lead dancer, rapper, center and maknae of the boy group BTS."
+    }
+  ]
+}

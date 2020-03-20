@@ -1,0 +1,34 @@
+{
+  "GFRIEND": [
+    {
+      "title": "Sowon (Kim So-jung)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/6/6d/GFRIEND_Labyrinth_Sowon_concept_photo_%281%29.png",
+      "description": "Sowon (소원) is a South Korean singer and rapper. She is the leader, main rapper, sub-vocalist and visual of the girl group GFRIEND."
+    },
+    {
+      "title": "Yerin (Jung Ye-rin)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/8/86/GFRIEND_Labyrinth_Yerin_concept_photo_%281%29.png",
+      "description": "Yerin (예린) is a South Korean singer under Source Music. She is the vocalist, lead dancer, center and face of the group of the girl group GFRIEND."
+    },
+    {
+      "title": "Eunha (Jung Eun-bi)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/d/df/GFRIEND_Labyrinth_Eunha_concept_photo_%281%29.png",
+      "description": "Eunha (은하) is a South Korean singer under Source Music. She is the lead vocalist of the girl group GFRIEND."
+    },
+    {
+      "title": "Yuju (Choi Yu-na)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/c/c6/GFRIEND_Labyrinth_Yuju_concept_photo_%281%29.png",
+      "description": "Yuju (유주) is a South Korean singer under Source Music. She is the main vocalist of the girl group GFRIEND."
+    },
+    {
+      "title": "SinB (Hwang Eun-bi)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/f/f6/GFRIEND_Labyrinth_SinB_concept_photo_%281%29.png",
+      "description": "SinB (신비) is a South Korean singer under Source Music. She is the main dancer, vocalist and center of the girl group GFRIEND."
+    },
+    {
+      "title": "Umji (Kim Ye-won)",
+      "image" : "https://vignette.wikia.nocookie.net/kpop/images/7/7e/GFRIEND_Labyrinth_Umji_concept_photo_%281%29.png",
+      "description": "Umji (엄지) is a South Korean singer under Source Music. She is the lead rapper, sub-vocalist and maknae of the girl group GFRIEND."
+    }
+  ]
+}

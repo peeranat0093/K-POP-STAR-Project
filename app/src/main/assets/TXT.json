@@ -1,0 +1,29 @@
+{
+  "TXT": [
+    {
+        "title": "Yeonjun (Choi Yeon-jun)",
+        "image" : "https://vignette.wikia.nocookie.net/kpop/images/7/72/TXT_Yeonjun_Cat_%26_Dog_concept_photo_2.png",
+        "description": "Yeonjun (연준) is a South Korean singer and rapper under Big Hit Entertainment. He is the main rapper, main dancer and vocalist of the boy group TXT."
+    },
+    {
+        "title": "Soobin (Choi Soo-bin)",
+        "image" : "https://vignette.wikia.nocookie.net/kpop/images/4/42/TXT_Soobin_Cat_%26_Dog_concept_photo_2.png",
+        "description": "Soobin (수빈) is a South Korean singer under Big Hit Entertainment. He is the leader, lead rapper, lead dancer and vocalist of the boy group TXT."
+    },
+    {
+        "title": "Beomgyu (Choi Beom-gyu)",
+        "image" : "https://vignette.wikia.nocookie.net/kpop/images/b/bb/TXT_Beomgyu_Cat_%26_Dog_concept_photo_3.png",
+        "description": "Beomgyu (범규) is a South Korean singer under Big Hit Entertainment. He is the lead vocalist of the boy group TXT."
+    },
+    {
+        "title": "Taehyun (Kang Tae-hyun)",
+        "image" : "https://vignette.wikia.nocookie.net/kpop/images/4/44/TXT_Taehyun_Cat_%26_Dog_concept_photo_2.png",
+        "description": "Taehyun (태현) is a South Korean singer under Big Hit Entertainment. He is the main vocalist of the boy group TXT."
+    },
+    {
+        "title": "Hueningkai (Kai Kamal Huening, Chung Kai)",
+        "image" : "https://vignette.wikia.nocookie.net/kpop/images/f/fc/TXT_Huening_Kai_Cat_%26_Dog_concept_photo_2.png",
+        "description": "Hueningkai (휴닝카이) is a Korean-American singer under Big Hit Entertainment. He is the lead vocalist, center, visual and maknae of the boy group TXT."
+    }
+  ]
+}
