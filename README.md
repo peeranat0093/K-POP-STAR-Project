@@ -18,3 +18,6 @@
 ![alt_text](https://i.postimg.cc/yW9nqjdt/Page-6-1.jpg)
 ![alt_text](https://i.postimg.cc/GTkjkLVd/Page-6-2.jpg)
 ![alt_text](https://i.postimg.cc/0MKnydC6/Page-6-3.jpg)
+
+# ภาพข้อมูลที่ถูกบันทึกลงใน Realtime Database
+![alt_text](https://i.postimg.cc/NfYqQc98/message-Image-1584687330845.jpg)
